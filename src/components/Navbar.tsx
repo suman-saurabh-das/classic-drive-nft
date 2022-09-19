@@ -58,6 +58,8 @@ export default function Navbar() {
                     </li>
                 </ul>
             </nav>
+
+            {/* Circle Backgrounds */}
             <div className='relative overflow-x-clip z-0'>
             <div className='h-[1000px] w-[1000px] border-[1.5px] border-dotted border-gold_500 rounded-full absolute -top-[20rem] -right-[32rem]'>
                 <div className='h-[800px] w-[800px] border-[1.5px] border-dotted border-gold_500 rounded-full absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2'>
