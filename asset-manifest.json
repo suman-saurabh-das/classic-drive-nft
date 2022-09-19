@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/classic-drive-nft/static/css/main.3c60993c.css",
-    "main.js": "/classic-drive-nft/static/js/main.ea535ba9.js",
+    "main.css": "/classic-drive-nft/static/css/main.20797be9.css",
+    "main.js": "/classic-drive-nft/static/js/main.2a0eeb9c.js",
     "static/js/787.748b901b.chunk.js": "/classic-drive-nft/static/js/787.748b901b.chunk.js",
     "index.html": "/classic-drive-nft/index.html",
-    "main.3c60993c.css.map": "/classic-drive-nft/static/css/main.3c60993c.css.map",
-    "main.ea535ba9.js.map": "/classic-drive-nft/static/js/main.ea535ba9.js.map",
+    "main.20797be9.css.map": "/classic-drive-nft/static/css/main.20797be9.css.map",
+    "main.2a0eeb9c.js.map": "/classic-drive-nft/static/js/main.2a0eeb9c.js.map",
     "787.748b901b.chunk.js.map": "/classic-drive-nft/static/js/787.748b901b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c60993c.css",
-    "static/js/main.ea535ba9.js"
+    "static/css/main.20797be9.css",
+    "static/js/main.2a0eeb9c.js"
   ]
 }
