@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/suman-saurabh-das/classic-drive-nft/static/css/main.3c60993c.css",
-    "main.js": "/suman-saurabh-das/classic-drive-nft/static/js/main.80a0acd2.js",
-    "static/js/787.748b901b.chunk.js": "/suman-saurabh-das/classic-drive-nft/static/js/787.748b901b.chunk.js",
-    "index.html": "/suman-saurabh-das/classic-drive-nft/index.html",
-    "main.3c60993c.css.map": "/suman-saurabh-das/classic-drive-nft/static/css/main.3c60993c.css.map",
-    "main.80a0acd2.js.map": "/suman-saurabh-das/classic-drive-nft/static/js/main.80a0acd2.js.map",
-    "787.748b901b.chunk.js.map": "/suman-saurabh-das/classic-drive-nft/static/js/787.748b901b.chunk.js.map"
+    "main.css": "/classic-drive-nft/static/css/main.3c60993c.css",
+    "main.js": "/classic-drive-nft/static/js/main.ea535ba9.js",
+    "static/js/787.748b901b.chunk.js": "/classic-drive-nft/static/js/787.748b901b.chunk.js",
+    "index.html": "/classic-drive-nft/index.html",
+    "main.3c60993c.css.map": "/classic-drive-nft/static/css/main.3c60993c.css.map",
+    "main.ea535ba9.js.map": "/classic-drive-nft/static/js/main.ea535ba9.js.map",
+    "787.748b901b.chunk.js.map": "/classic-drive-nft/static/js/787.748b901b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c60993c.css",
-    "static/js/main.80a0acd2.js"
+    "static/js/main.ea535ba9.js"
   ]
 }
