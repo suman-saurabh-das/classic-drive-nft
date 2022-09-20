@@ -5,7 +5,7 @@ export default function Roadmap() {
     <main id='roadmap'>
       <section className='bg-black text-white px-4 sm:px-6 md:px-10 pt-14'>
         <div>
-          <h3 className='text-md md:text-lg xl:text-xl'>We are coming with the storm and we are gonna ride the waves,<br />
+          <h3 className='text-md md:text-lg xl:text-xl italic'>We are coming with the storm and we are gonna ride the waves,<br />
             Have you listened to the rumors, have you been paying attention.<br />
             <span className='text-gold_100 font-semibold'>We are stopping by</span></h3>
         </div>

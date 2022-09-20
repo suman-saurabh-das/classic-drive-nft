@@ -12,7 +12,7 @@ export default function Home() {
                     <a href='https://discord.gg/77RgBU6wzS' target="_blank" rel='noreferrer' className='bg-gold_600 hover:bg-gold_800 hover:cursor-pointer duration-300 p-3 rounded-lg text-sm font-semibold'><i className="fa-brands fa-discord"></i>&emsp;Join the Community</a>
                 </div>
                 <div className='relative right-10'>
-                    <img className='md:h-[350px] xl:h-[450px] 2xl:h-[650px]' src="https://classicdrive.xyz/static/media/fire.6ca6e93afc2471d3d2dfac4fbaaf0a95.svg" alt="" />
+                    <img className='md:h-[350px] xl:h-[450px] 2xl:h-[650px]' src="https://drive.google.com/uc?export=view&id=1oYPiR9nhC2207z84m0zWFIl5G6uyzm3B" alt="" />
                 </div>
             </div>
         </section>

@@ -14,7 +14,7 @@ export default function Carousel() {
                                 <button className='bg-gold_600 hover:bg-gold_800 hover:cursor-pointer duration-300 p-3 rounded-lg text-sm font-semibold float-right'>Explore More</button>
                             </div>
                             <img
-                                src="https://classicdrive.xyz/static/media/red.223d05eaa7852418fdf1f7f195e3c246.svg"
+                                src="https://drive.google.com/uc?export=view&id=1LiPkVHSUcOQ6GU4yvgHInk1sNUMipgP3"
                                 className="md:inline-block w-full sm:w-1/3 float-right"
                                 alt="Wild Landscape"
                             />
@@ -26,7 +26,7 @@ export default function Carousel() {
                                 <button className='bg-gold_600 hover:bg-gold_800 hover:cursor-pointer duration-300 p-3 rounded-lg text-sm font-semibold float-right'>Explore More</button>
                             </div>
                             <img
-                                src="https://classicdrive.xyz/static/media/blue.01e7ba4c216566d1802f1b2ba884f284.svg"
+                                src="https://drive.google.com/uc?export=view&id=10lfk5N749OrPJQ-k5TZ5wVfFylqMjF5C"
                                 className="md:inline-block w-full sm:w-1/3 float-right"
                                 alt="Camera"
                             />
@@ -38,7 +38,7 @@ export default function Carousel() {
                                 <button className='bg-gold_600 hover:bg-gold_800 hover:cursor-pointer duration-300 p-3 rounded-lg text-sm font-semibold float-right'>Explore More</button>
                             </div>
                             <img
-                                src="https://classicdrive.xyz/static/media/yellow.27f87ea1bbe22a82b2ef851fa9b8d89d.svg"
+                                src="https://drive.google.com/uc?export=view&id=1DFvIx0yjy6vld12Vv7QCZPPfQc5B0N09"
                                 className="md:inline-block w-full sm:w-1/3 float-right"
                                 alt="Exotic Fruits"
                             />
