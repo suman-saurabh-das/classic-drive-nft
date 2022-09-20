@@ -11,7 +11,6 @@ export default function Carousel() {
                             <div className='md:inline-block w-full lg:w-1/2 py-8 md:pr-12'>
                                 <h1 className='text-xl sm:text-2xl md:text-3xl xl:text-4xl 2xl:text-5xl font-bold text-gold_700'>Rypnite</h1>
                                 <p className='py-6 text-gold_600'>Sensored armored machina manufactured for pure comfort and zero duress. With a GPS controlled steering to automated and voice recognize programs as part of it's makeup, Sommers makes living peaceful and easier. When the going gets tough, hop on a Sommer and the tough unload a massive barrage of awesomeness - do not tread softly as you only live once.</p>
-                                <button className='bg-gold_600 hover:bg-gold_800 hover:cursor-pointer duration-300 p-3 rounded-lg text-sm font-semibold float-right'>Explore More</button>
                             </div>
                             <img
                                 src="https://drive.google.com/uc?export=view&id=1LiPkVHSUcOQ6GU4yvgHInk1sNUMipgP3"
